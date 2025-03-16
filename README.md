@@ -32,7 +32,7 @@ The dataset includes the following key attributes:
 4. **View Dashboard**: Open the provided `.pbix` file to explore the dashboard.
 
 ## 📊 Dashboard Preview
-![Dashboard Screenshot](assets/dashboard_preview.png)
+![Dashboard Screenshot](dashboard.jpg)
 
 ## 🧰 Tools Used
 - **Power BI Desktop**: For data visualization and dashboard creation.
