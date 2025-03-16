@@ -7,7 +7,6 @@ This repository contains an interactive **HR Analytics Dashboard** built using *
 The dataset includes the following key attributes:
 - Employee ID
 - Gender
-- Age
 - Attrition Status
 - Years at Company
 - Promotion Status
